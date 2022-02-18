@@ -1,6 +1,6 @@
 # 常用命令
 
-{% code title="" %}
+{% code title="mingling" %}
 ```markdown
 #创建命令空间
 kubectl create ns [namespace]
